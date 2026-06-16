@@ -1,0 +1,615 @@
+[
+  {
+    "id": "akylbekov",
+    "name": "Акылбеков Тимур",
+    "position": "react-junior",
+    "pos_label": "React — младший программист",
+    "file": "Акылбеков.pdf",
+    "email": "akylbekov.t@email.com",
+    "phone": "+996 555 100 200",
+    "city": "Бишкек",
+    "tg": "@tim_dev",
+    "exp": [
+      [
+        "2024-09 — н.в.",
+        "WebStudio KG",
+        "Frontend стажёр",
+        "8 мес."
+      ]
+    ],
+    "total_exp": "~8 мес. (стажировка)",
+    "stack": "HTML5, CSS3, SCSS, JavaScript, React, Git",
+    "edu": "КГТУ, ИСиТ, студент (4 курс)",
+    "verdict": "ПОДХОДИТ",
+    "vc": "verdict-green",
+    "criteria": [
+      [
+        "ok",
+        "HTML5/CSS3/SCSS, адаптивная верстка — есть"
+      ],
+      [
+        "ok",
+        "JavaScript (ES6+), React — базовый уровень есть"
+      ],
+      [
+        "partial",
+        "TypeScript — изучает, в проектах не применял"
+      ],
+      [
+        "ok",
+        "Git — commit/push/pull уверенно"
+      ]
+    ],
+    "summary": "Студент 4 курса со стажировкой. Уверенная вёрстка и базовый React. TypeScript только изучает — зона роста.",
+    "questions": [
+      "TypeScript — есть ли учебные примеры?",
+      "React — какие проекты делали на стажировке?"
+    ],
+    "status": "new",
+    "createdAt": "2026-06-10T09:00:00Z"
+  },
+  {
+    "id": "maratova",
+    "name": "Маратова Айгерим",
+    "position": "react-junior",
+    "pos_label": "React — младший программист",
+    "file": "Маратова.pdf",
+    "email": "maratova.a@email.com",
+    "phone": "+996 700 333 444",
+    "city": "Бишкек",
+    "tg": "@aigerim_fe",
+    "exp": [
+      [
+        "2024-03 — н.в.",
+        "Freelance",
+        "Верстальщик",
+        "1 г."
+      ]
+    ],
+    "total_exp": "~1 г. (фриланс)",
+    "stack": "HTML5, CSS3, SCSS, Tailwind, JavaScript, TypeScript, React, Git",
+    "edu": "Attractor School, Frontend (2024)",
+    "verdict": "ПОДХОДИТ",
+    "vc": "verdict-green",
+    "criteria": [
+      [
+        "ok",
+        "HTML5/CSS3/SCSS/Tailwind, адаптивная и кроссбраузерная верстка — есть"
+      ],
+      [
+        "ok",
+        "JavaScript (ES6+) и TypeScript — базовый уровень есть"
+      ],
+      [
+        "ok",
+        "React — базовый уровень есть"
+      ],
+      [
+        "ok",
+        "Git — есть"
+      ]
+    ],
+    "summary": "Сильный junior-профиль: вёрстка, базовый TS и React, есть фриланс-портфолио. Закрывает требования junior.",
+    "questions": [
+      "React — расскажите про самый сложный компонент",
+      "Адаптив — как тестируете кроссбраузерность?"
+    ],
+    "status": "new",
+    "createdAt": "2026-06-11T11:30:00Z"
+  },
+  {
+    "id": "nurlanov",
+    "name": "Нурланов Бекзат",
+    "position": "react-junior",
+    "pos_label": "React — младший программист",
+    "file": "Нурланов.pdf",
+    "email": "nurlanov.b@email.com",
+    "phone": "+996 770 555 666",
+    "city": "Ош",
+    "tg": "@bekzat_n",
+    "exp": [
+      [
+        "2023-09 — н.в.",
+        "ОсОО DigitalOsh",
+        "Junior Frontend",
+        "1.5 г."
+      ]
+    ],
+    "total_exp": "~1.5 г.",
+    "stack": "HTML5, CSS3, JavaScript, TypeScript, React, Redux, REST API, Git",
+    "edu": "ОшГУ, Программная инженерия (2025)",
+    "verdict": "ПОДХОДИТ",
+    "vc": "verdict-green",
+    "criteria": [
+      [
+        "ok",
+        "HTML5/CSS3, адаптивная верстка — есть"
+      ],
+      [
+        "ok",
+        "JavaScript (ES6+), TypeScript — есть"
+      ],
+      [
+        "ok",
+        "React + Redux — есть (выше базового)"
+      ],
+      [
+        "ok",
+        "REST API — есть"
+      ],
+      [
+        "ok",
+        "Git — есть"
+      ]
+    ],
+    "summary": "Уже ~1.5 года коммерческого опыта, перекрывает junior с запасом. React, TS, Redux, REST. Близок к junior+.",
+    "questions": [
+      "Redux — когда применяете, а когда useState?",
+      "REST — как обрабатываете ошибки запросов?"
+    ],
+    "status": "reviewing",
+    "createdAt": "2026-06-08T14:00:00Z"
+  },
+  {
+    "id": "sariev",
+    "name": "Сариев Эльдар",
+    "position": "react-junior",
+    "pos_label": "React — младший программист",
+    "file": "Сариев.pdf",
+    "email": "sariev.e@email.com",
+    "phone": "+996 555 777 888",
+    "city": "Бишкек",
+    "tg": "@eldar_dev",
+    "exp": [
+      [
+        "2025-01 — н.в.",
+        "pet-проекты",
+        "Самостоятельная разработка",
+        "5 мес."
+      ]
+    ],
+    "total_exp": "0 коммерч. (учебные проекты)",
+    "stack": "HTML5, CSS3, JavaScript, React, Git",
+    "edu": "КНУ, Прикладная математика и информатика, студент (3 курс)",
+    "verdict": "ПОДХОДИТ",
+    "vc": "verdict-green",
+    "criteria": [
+      [
+        "ok",
+        "HTML5/CSS3, верстка — есть"
+      ],
+      [
+        "ok",
+        "JavaScript (ES6+), React — базовый уровень есть"
+      ],
+      [
+        "partial",
+        "TypeScript — нет (зона роста)"
+      ],
+      [
+        "ok",
+        "Git/GitHub — есть, портфолио на GitHub"
+      ]
+    ],
+    "summary": "Студент 3 курса без коммерции (для junior не обязательно), но с портфолио pet-проектов. Базовый стек закрывает junior. TS — зона роста.",
+    "questions": [
+      "Покажите GitHub-портфолио",
+      "TypeScript — планируете осваивать?"
+    ],
+    "status": "new",
+    "createdAt": "2026-06-12T08:15:00Z"
+  },
+  {
+    "id": "djumabekova",
+    "name": "Джумабекова Нурайым",
+    "position": "react-junior",
+    "pos_label": "React — младший программист",
+    "file": "Джумабекова.pdf",
+    "email": "djumabekova.n@email.com",
+    "phone": "+996 700 111 222",
+    "city": "Бишкек",
+    "tg": "@nuraiym",
+    "exp": [
+      [
+        "2024-06 — н.в.",
+        "IT-Academy",
+        "Frontend (обучение + проекты)",
+        "10 мес."
+      ]
+    ],
+    "total_exp": "~10 мес. (учебные/командные проекты)",
+    "stack": "HTML5, CSS3, SCSS, JavaScript, TypeScript, React, REST API, Git",
+    "edu": "МУ Ала-Тоо, Информатика (2025)",
+    "verdict": "ПОДХОДИТ",
+    "vc": "verdict-green",
+    "criteria": [
+      [
+        "ok",
+        "HTML5/CSS3/SCSS, адаптивная верстка — есть"
+      ],
+      [
+        "ok",
+        "JavaScript (ES6+), TypeScript — базовый уровень есть"
+      ],
+      [
+        "ok",
+        "React — базовый уровень есть"
+      ],
+      [
+        "ok",
+        "REST API — базовое понимание есть"
+      ],
+      [
+        "ok",
+        "Git — есть"
+      ]
+    ],
+    "summary": "Полный набор junior-навыков: вёрстка, JS/TS, React, REST, Git. Командные учебные проекты. Готова к junior.",
+    "questions": [
+      "REST — как организуете запросы в React?",
+      "Командная работа — какая была роль?"
+    ],
+    "status": "interviewed",
+    "createdAt": "2026-06-05T16:45:00Z"
+  },
+  {
+    "id": "temirbek",
+    "name": "Темирбек уулу Азамат",
+    "position": "react-junior",
+    "pos_label": "React — младший программист",
+    "file": "Темирбек.pdf",
+    "email": "temirbek.a@email.com",
+    "phone": "+996 555 999 000",
+    "city": "Бишкек",
+    "tg": "@azamat_t",
+    "exp": [
+      [
+        "2024-10 — н.в.",
+        "Freelance",
+        "Верстальщик",
+        "7 мес."
+      ]
+    ],
+    "total_exp": "~7 мес. (фриланс-вёрстка)",
+    "stack": "HTML5, CSS3, SCSS, JavaScript, jQuery, Git",
+    "edu": "КГТУ, студент (3 курс)",
+    "verdict": "ЧАСТИЧНО",
+    "vc": "verdict-orange",
+    "criteria": [
+      [
+        "ok",
+        "HTML5/CSS3/SCSS, адаптивная верстка — есть (сильная сторона)"
+      ],
+      [
+        "ok",
+        "JavaScript (ES6+) — базовый уровень есть"
+      ],
+      [
+        "no",
+        "React/Vue/Angular — нет (только jQuery)"
+      ],
+      [
+        "partial",
+        "TypeScript — нет"
+      ],
+      [
+        "ok",
+        "Git — есть"
+      ]
+    ],
+    "summary": "Хорошая вёрстка и базовый JS, но нет опыта с современным фреймворком (только jQuery) и TS. Подходит на junior при готовности быстро освоить React.",
+    "questions": [
+      "React — пробовали? Готовы изучать?",
+      "jQuery → React — понимаете разницу подходов?"
+    ],
+    "status": "new",
+    "createdAt": "2026-06-09T10:20:00Z"
+  },
+  {
+    "id": "kim",
+    "name": "Ким Виктория",
+    "position": "react-junior",
+    "pos_label": "React — младший программист",
+    "file": "Ким.pdf",
+    "email": "kim.v@email.com",
+    "phone": "+996 700 444 555",
+    "city": "Бишкек",
+    "tg": "@vika_k",
+    "exp": [
+      [
+        "2025-02 — н.в.",
+        "учебные проекты",
+        "Frontend",
+        "3 мес."
+      ]
+    ],
+    "total_exp": "0 коммерч. (выпускница курсов)",
+    "stack": "HTML5, CSS3, JavaScript, React, Git",
+    "edu": "Курсы Geek (2025); неоконч. высшее, экономика",
+    "verdict": "ЧАСТИЧНО",
+    "vc": "verdict-orange",
+    "criteria": [
+      [
+        "ok",
+        "HTML5/CSS3, верстка — есть"
+      ],
+      [
+        "ok",
+        "JavaScript, React — базовый уровень есть"
+      ],
+      [
+        "partial",
+        "TypeScript — нет"
+      ],
+      [
+        "partial",
+        "Образование — не профильное (экономика), есть курсы"
+      ],
+      [
+        "ok",
+        "Git — базово"
+      ]
+    ],
+    "summary": "Сменила направление через курсы. Базовый React и вёрстка есть, но образование непрофильное, нет TS и коммерческого опыта. Junior со стажировкой/менторством.",
+    "questions": [
+      "Что мотивировало перейти во frontend?",
+      "React — какой проект на курсах делали?"
+    ],
+    "status": "new",
+    "createdAt": "2026-06-12T13:00:00Z"
+  },
+  {
+    "id": "osmonov",
+    "name": "Осмонов Данияр",
+    "position": "react-junior",
+    "pos_label": "React — младший программист",
+    "file": "Осмонов.pdf",
+    "email": "osmonov.d@email.com",
+    "phone": "+996 770 222 333",
+    "city": "Каракол",
+    "tg": "@daniyar_o",
+    "exp": [
+      [
+        "2024-01 — н.в.",
+        "Local IT",
+        "Frontend (part-time)",
+        "1 г. 4 мес."
+      ]
+    ],
+    "total_exp": "~1 г. 4 мес. (part-time)",
+    "stack": "HTML5, CSS3, JavaScript, React, REST API, Git",
+    "edu": "ИГУ им. Тыныстанова, Информатика (2024)",
+    "verdict": "ЧАСТИЧНО",
+    "vc": "verdict-orange",
+    "criteria": [
+      [
+        "ok",
+        "HTML5/CSS3, адаптивная верстка — есть"
+      ],
+      [
+        "ok",
+        "JavaScript, React, REST API — базовый уровень есть"
+      ],
+      [
+        "no",
+        "TypeScript — нет (заявлено как обязательное базовое)"
+      ],
+      [
+        "ok",
+        "Git — есть"
+      ]
+    ],
+    "summary": "Есть коммерческий опыт и React, но полностью отсутствует TypeScript. По остальным пунктам junior проходит. Рассмотреть при готовности освоить TS.",
+    "questions": [
+      "TypeScript — почему не использовали, готовы ли освоить?",
+      "REST — приведите пример интеграции"
+    ],
+    "status": "reviewing",
+    "createdAt": "2026-06-07T09:30:00Z"
+  },
+  {
+    "id": "aliev",
+    "name": "Алиев Руслан",
+    "position": "react-junior",
+    "pos_label": "React — младший программист",
+    "file": "Алиев.pdf",
+    "email": "aliev.r@email.com",
+    "phone": "+996 555 666 111",
+    "city": "Бишкек",
+    "tg": "@ruslan_a",
+    "exp": [
+      [
+        "2024-08 — н.в.",
+        "стартап (без оформления)",
+        "Frontend",
+        "9 мес."
+      ]
+    ],
+    "total_exp": "~9 мес.",
+    "stack": "HTML5, CSS3, Vue.js, JavaScript, Git",
+    "edu": "КГТУ, студент (4 курс)",
+    "verdict": "ЧАСТИЧНО",
+    "vc": "verdict-orange",
+    "criteria": [
+      [
+        "ok",
+        "HTML5/CSS3, верстка — есть"
+      ],
+      [
+        "ok",
+        "JavaScript — базовый уровень есть"
+      ],
+      [
+        "partial",
+        "Фреймворк — Vue.js (не React); знаком на базовом уровне"
+      ],
+      [
+        "partial",
+        "TypeScript — нет"
+      ],
+      [
+        "ok",
+        "Git — есть"
+      ]
+    ],
+    "summary": "Опыт во Vue, а не React (для junior знакомство с одним из фреймворков допускается). Нет TS. При переходе на React нужен адаптационный период.",
+    "questions": [
+      "Vue → React — насколько быстро переключитесь?",
+      "TypeScript — есть ли база?"
+    ],
+    "status": "new",
+    "createdAt": "2026-06-11T15:10:00Z"
+  },
+  {
+    "id": "bektenova",
+    "name": "Бектенова Асель",
+    "position": "react-junior",
+    "pos_label": "React — младший программист",
+    "file": "Бектенова.pdf",
+    "email": "bektenova.a@email.com",
+    "phone": "+996 700 888 999",
+    "city": "Бишкек",
+    "tg": "@asel_b",
+    "exp": [],
+    "total_exp": "0 (студентка 2 курса)",
+    "stack": "HTML5, CSS3, JavaScript (основы)",
+    "edu": "КНУ, студентка (2 курс)",
+    "verdict": "НЕ ПОДХОДИТ",
+    "vc": "verdict-red",
+    "criteria": [
+      [
+        "partial",
+        "HTML5/CSS3 — базово, верстка простая"
+      ],
+      [
+        "partial",
+        "JavaScript — только основы"
+      ],
+      [
+        "no",
+        "React/фреймворк — нет"
+      ],
+      [
+        "no",
+        "TypeScript — нет"
+      ],
+      [
+        "no",
+        "Образование — 2 курс (требуется 3+)"
+      ]
+    ],
+    "summary": "Студентка 2 курса, только основы HTML/CSS/JS, нет фреймворка и опыта. Не дотягивает до junior. Рекомендуется учебная стажировка позже.",
+    "questions": [
+      "Какие проекты делали самостоятельно?",
+      "Планируете ли изучать React?"
+    ],
+    "status": "new",
+    "createdAt": "2026-06-12T17:00:00Z"
+  },
+  {
+    "id": "ismailov",
+    "name": "Исмаилов Марат",
+    "position": "react-junior",
+    "pos_label": "React — младший программист",
+    "file": "Исмаилов.pdf",
+    "email": "ismailov.m@email.com",
+    "phone": "+996 555 121 212",
+    "city": "Бишкек",
+    "tg": "",
+    "exp": [
+      [
+        "2023-05 — 2024-02",
+        "контакт-центр",
+        "Оператор (не разработка)",
+        "9 мес."
+      ]
+    ],
+    "total_exp": "0 коммерч. в разработке",
+    "stack": "HTML, CSS, основы JavaScript",
+    "edu": "среднее специальное, не ИТ",
+    "verdict": "НЕ ПОДХОДИТ",
+    "vc": "verdict-red",
+    "criteria": [
+      [
+        "partial",
+        "HTML/CSS — базово"
+      ],
+      [
+        "no",
+        "JavaScript — фрагментарно, ES6+ не освоен"
+      ],
+      [
+        "no",
+        "React/фреймворк — нет"
+      ],
+      [
+        "no",
+        "TypeScript — нет"
+      ],
+      [
+        "no",
+        "Образование — не ИТ, без профильных курсов"
+      ]
+    ],
+    "summary": "Нет профильного образования и фреймворка, JS на начальном уровне. Не соответствует требованиям junior.",
+    "questions": [
+      "Проходили ли курсы по frontend?",
+      "Есть ли pet-проекты?"
+    ],
+    "status": "new",
+    "createdAt": "2026-06-10T12:00:00Z"
+  },
+  {
+    "id": "petrov",
+    "name": "Петров Алексей",
+    "position": "react-junior",
+    "pos_label": "React — младший программист",
+    "file": "Петров.pdf",
+    "email": "petrov.a@email.com",
+    "phone": "+996 770 343 434",
+    "city": "Бишкек",
+    "tg": "@alex_backend",
+    "exp": [
+      [
+        "2023-01 — н.в.",
+        "ОсОО SoftLine",
+        "Backend-разработчик (PHP)",
+        "2 г. 4 мес."
+      ]
+    ],
+    "total_exp": "~2 г. (backend, не frontend)",
+    "stack": "PHP, Laravel, MySQL, HTML, CSS",
+    "edu": "КГТУ, Информатика (2022)",
+    "verdict": "НЕ ПОДХОДИТ",
+    "vc": "verdict-red",
+    "criteria": [
+      [
+        "ok",
+        "HTML/CSS — базово есть"
+      ],
+      [
+        "no",
+        "JavaScript (ES6+) — слабо, опыт backend"
+      ],
+      [
+        "no",
+        "React/фреймворк — нет"
+      ],
+      [
+        "no",
+        "TypeScript — нет"
+      ],
+      [
+        "partial",
+        "SQL/REST — есть (из backend-опыта)"
+      ]
+    ],
+    "summary": "Опытный backend-разработчик (PHP), но без frontend-стека: нет React, слабый JS. На react-junior не подходит без переквалификации.",
+    "questions": [
+      "Почему хотите перейти во frontend?",
+      "Сколько времени уделяли React самостоятельно?"
+    ],
+    "status": "new",
+    "createdAt": "2026-06-09T18:30:00Z"
+  }
+]
