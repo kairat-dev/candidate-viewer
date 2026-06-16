@@ -1,0 +1,11 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "allowImportingTsExtensions": false,
+    "noEmit": false,
+    "module": "CommonJS",
+    "moduleResolution": "node",
+    "esModuleInterop": true
+  },
+  "include": ["src"]
+}
